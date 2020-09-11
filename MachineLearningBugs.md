@@ -1,11 +1,14 @@
 ## L’utilisation de l’apprentissage automatique pour détecter des ravageurs volants en champ
 
-### Table des matières
-- [Comment l’apprentissage automatique peut-il être utilisé pour identifier des insectes ravageurs à partir d’images digitales?](###Comment l’apprentissage automatique peut-il être utilisé pour identifier des insectes ravageurs à partir d’images digitales?)
+- [L’utilisation de l’apprentissage automatique pour détecter des ravageurs volants en champ](#l-utilisation-de-l-apprentissage-automatique-pour-d-tecter-des-ravageurs-volants-en-champ)
+  * [Comment l’apprentissage automatique peut-il être utilisé pour identifier des insectes ravageurs à partir d’images digitales?](#comment-l-apprentissage-automatique-peut-il--tre-utilis--pour-identifier-des-insectes-ravageurs---partir-d-images-digitales-)
+  * [Qu’est-ce qu’un piège à phéromones régulier?](#qu-est-ce-qu-un-pi-ge---ph-romones-r-gulier-)
+  * [Qu’est-ce qu’un piège à phéromones automatisé?](#qu-est-ce-qu-un-pi-ge---ph-romones-automatis--)
+  * [Quels sont les défis d’un concepteur de piège à phéromones automatisé?](#quels-sont-les-d-fis-d-un-concepteur-de-pi-ge---ph-romones-automatis--)
+    + [Les insectes ne sont pas toujours collés dans la même position](#les-insectes-ne-sont-pas-toujours-coll-s-dans-la-m-me-position)
+    + [Les captures secondaires](#les-captures-secondaires)
+    + [Les changements de condition du piège](#les-changements-de-condition-du-pi-ge)
 
-- [Qu’est-ce qu’un piège à phéromones régulier?](###Qu’est-ce qu’un piège à phéromones régulier?)
-
-- [Qu’est-ce qu’un piège à phéromones automatisé?](###Qu’est-ce qu’un piège à phéromones automatisé?)
 ___
 ### Comment l’apprentissage automatique peut-il être utilisé pour identifier des insectes ravageurs à partir d’images digitales?
 Les algorithmes de classification doivent être aptes à séparer les insectes du fond de l’image et de classer cet insecte. On doit donc soumettre un très grand nombre d’images aux algorithmes de classification choisis pour leur permettre de diminuer le nombre de faux positifs et faux négatifs. Les images doivent être passés à travers un série de filtres visant d'abord à isoler les insectes du fond de l’image. Ces insectes potentiels doivent être sélectionnés sur la base de leur forme, taille, couleur ou degré de complexité et d'irrégularité. Ensuite, dépendamment des besoins du concepteur de la méthode d'apprentissage machine, les insectes seront attribué à une classe. Parfois, le système de classification sera binaire et ne détectera que la présence ou l’absence de l’insecte recherché. Dans d’autres cas, il pourrait y avoir une dizaine d’insectes ravageurs à différencier du fond de l’image et des insectes qui ne sont pas nuisibles. La base de donnée d’image soumise aux filtres de classification doit contenir un nombre d’images suffisant pour permettre aux algorithmes de classification de s’améliorer suite aux confirmations (ou infirmations) d’un observateur humain. Cette base de donnée d’image doit être représentative des différentes classes à analyser et des objets non-recherchés que l’algorithme pourrait identifier à tort comme étant une des classes d'intérêt.
