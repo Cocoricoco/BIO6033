@@ -38,7 +38,7 @@ ___
 Les images utilisées pour entraîner les filtres de classification doivent être représentatives des différentes positions dans lesquelles peuvent se coller les insectes. Elles doivent par exemple inclure des insectes collés de face ainsi que de profil.
 
 ### Les captures secondaires
-Malgré que les phéromones des insectes ravageurs sont souvent très spécifiques, il y aura souvent des captures secondaires qui iront se coller au hasard sur la base collante. Les filtres de classification devront être entraînés sous des conditions réelles pour différencier les captures secondaires du ravageur d'intérêt. De plus, le système doit être entraîné pour prendre en compte la superposition d’insectes lorsque de nombreux insectes y seront collés. Une superposition d’insectes peut mener à une sous-estimation de leur nombre.
+Malgré que les phéromones des insectes ravageurs sont souvent très spécifiques, il y aura souvent des captures secondaires qui iront se coller au hasard sur la base collante. Les filtres de classification devront être entraînés sous des conditions réelles pour différencier les captures secondaires du ravageur d'intérêt. De plus, le système doit être entraîné et ajusté pour prendre en compte la superposition d’insectes lorsque de nombreux insectes y seront collés. Une superposition d’insectes peut mener à une sous-estimation de leur nombre.
 
 ![Image3](https://github.com/Cocoricoco/BIO6033/blob/master/Image3.jpg)
 
