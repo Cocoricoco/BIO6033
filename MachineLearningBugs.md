@@ -1,10 +1,10 @@
 ## L’utilisation de l’apprentissage automatique pour détecter des ravageurs volants en champ
 
-- [L’utilisation de l’apprentissage automatique pour détecter des ravageurs volants en champ](#l-utilisation-de-l-apprentissage-automatique-pour-détecter-des-ravageurs-volants-en-champ)
-  * [Comment l’apprentissage automatique peut-il être utilisé pour identifier des insectes ravageurs à partir d’images digitales?](#comment-l-apprentissage-automatique-peut-il-être-utilisé-pour-identifier-des-insectes-ravageurs-à-partir-d-images-digitales?)
-  * [Qu’est-ce qu’un piège à phéromones régulier?](#qu-est-ce-qu-un-piège-à-phéromones-régulier?)
-  * [Qu’est-ce qu’un piège à phéromones automatisé?](#qu-est-ce-qu-un-piège-à-phéromones-automatisé?)
-  * [Quels sont les défis d’un concepteur de piège à phéromones automatisé?](#quels-sont-les-défis-d-un-concepteur-de-pi-ge---ph-romones-automatis--)
+- [L’utilisation de l’apprentissage automatique pour détecter des ravageurs volants en champ](#l'utilisation-de-l'apprentissage-automatique-pour-détecter-des-ravageurs-volants-en-champ)
+  * [Comment l’apprentissage automatique peut-il être utilisé pour identifier des insectes ravageurs à partir d’images digitales?](#comment-l'apprentissage-automatique-peut-il-être-utilisé-pour-identifier-des-insectes-ravageurs-à-partir-d'images-digitales?)
+  * [Qu’est-ce qu’un piège à phéromones régulier?](#qu-est-ce-qu'un-piège-à-phéromones-régulier?)
+  * [Qu’est-ce qu’un piège à phéromones automatisé?](#qu-est-ce-qu'un-piège-à-phéromones-automatisé?)
+  * [Quels sont les défis d’un concepteur de piège à phéromones automatisé?](#quels-sont-les-défis-d'un-concepteur-de-piège-à-phéromones-automatisé?)
     + [Les insectes ne sont pas toujours collés dans la même position](#les-insectes-ne-sont-pas-toujours-collés-dans-la-même-position)
     + [Les captures secondaires](#les-captures-secondaires)
     + [Les changements de condition du piège](#les-changements-de-condition-du-piège)
