@@ -18,7 +18,7 @@ Les algorithmes de classification doivent être aptes à séparer les insectes d
 
 ![Image1](https://github.com/Cocoricoco/BIO6033/blob/master/Image1.png)
 
-==Exemple de système de détection bien ajusté.==
+*Exemple de système de détection bien ajusté.*
 
 ___
 ### Qu’est-ce qu’un piège à phéromones régulier?
@@ -29,7 +29,8 @@ ___
 Un piège à phéromones automatisé inclus une caméra prenant des photos de la base collante à des intervalles pré-déterminés. Ces photos peuvent être envoyé par le réseau cellulaire aux propriétaires du champ surveillé. En théorie, une série de filtres de classification bien entraînés par apprentissage machine pourra alors envoyer une alerte au fermier l’informant du nombre d’insectes ravageurs de chaque classe d'intérêt détectés.
 
 ![Image2](https://github.com/Cocoricoco/BIO6033/blob/master/SemiosTraps.png)
-==Exemple de l'interface utilisateur d'un fermier surveillant son champ à l'aide de pièges automatisés==
+
+*Exemple de l'interface utilisateur d'un fermier surveillant son champ à l'aide de pièges automatisés*
 ___
 ### Quels sont les défis d’un concepteur de piège à phéromones automatisé?
 
@@ -40,7 +41,8 @@ Les images utilisées pour entraîner les filtres de classification doivent êtr
 Malgré que les phéromones des insectes ravageurs sont souvent très spécifiques, il y aura souvent des captures secondaires qui iront se coller au hasard sur la base collante. Les filtres de classification devront être entraînés sous des conditions réelles pour différencier les captures secondaires du ravageur d'intérêt. De plus, le système doit être entraîné pour prendre en compte la superposition d’insectes lorsque de nombreux insectes y seront collés. Une superposition d’insectes peut mener à une sous-estimation de leur nombre.
 
 ![Image3](https://github.com/Cocoricoco/BIO6033/blob/master/Image3.png)
-==Exemple de système d'apprentissage automatique entrainé à distinguer des papillons par un technicien==
+
+*Exemple de système d'apprentissage automatique entrainé à distinguer des papillons par un technicien*
 
 
 #### Les changements de condition du piège
