@@ -53,7 +53,7 @@ ___
 
 - Barbedo, J.G.A., 2020. *Detecting and Classifying Pests in Crops Using Proximal Images and Machine Learning: A Review.* AI, 1(2), pp.312-328.
 
-- Ding, W. and Taylor, G., 2016. Automatic moth detection from trap images for pest management. Computers and Electronics in Agriculture, 123, pp.17-28.
+- Ding, W. and Taylor, G., 2016. *Automatic moth detection from trap images for pest management. Computers and Electronics in Agriculture*, 123, pp.17-28.
 
 
 
