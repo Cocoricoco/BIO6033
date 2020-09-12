@@ -9,7 +9,7 @@
     + [Les insectes ne sont pas toujours collés dans la même position](#les-insectes-ne-sont-pas-toujours-collés-dans-la-même-position)
     + [Les captures secondaires](#les-captures-secondaires)
     + [Les changements de condition du piège](#les-changements-de-condition-du-piège)
-* [Bibliographie](#quels-sont-les-d%C3%A9fis-dun-concepteur-de-pi%C3%A8ge-%C3%A0-ph%C3%A9romones-automatis%C3%A9)
+* [Bibliographie](#bibliographie)
   
 
 ___
