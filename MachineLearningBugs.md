@@ -23,6 +23,8 @@ ___
 
 ### Qu’est-ce qu’un piège à phéromones automatisé?
 Un piège à phéromones automatisé inclus une caméra prenant des photos de la base collante à des intervalles pré-déterminés. Ces photos peuvent être envoyé par le réseau cellulaire aux propriétaires du champ surveillé. En théorie, une série de filtres de classification bien entraînés par apprentissage machine pourra alors envoyer une alerte au fermier l’informant du nombre d’insectes ravageurs de chaque classe d'intérêt détectés.
+
+![Image2](https://github.com/Cocoricoco/BIO6033/blob/master/SemiosTraps.png)
 ___
 ### Quels sont les défis d’un concepteur de piège à phéromones automatisé?
 
@@ -31,6 +33,8 @@ Les images utilisées pour entraîner les filtres de classification doivent êtr
 
 #### Les captures secondaires
 Malgré que les phéromones des insectes ravageurs sont souvent très spécifiques, il y aura souvent des captures secondaires qui iront se coller au hasard sur la base collante. Les filtres de classification devront être entraînés sous des conditions réelles pour différencier les captures secondaires du ravageur d'intérêt. De plus, le système doit être entraîné pour prendre en compte la superposition d’insectes lorsque de nombreux insectes y seront collés. Une superposition d’insectes peut mener à une sous-estimation de leur nombre.
+
+![Image3](https://github.com/Cocoricoco/BIO6033/blob/master/Image3.png)
 
 #### Les changements de condition du piège
 Les conditions météorologiques ou la présence de plantes créant de l’ombre autour du piège peuvent en changer le niveau de luminosité. La base de donnée d’images utilisées pour entraîner le système d’apprentissage automatique doit être représentative des changements de luminosité tout au long de la saison de culture.
