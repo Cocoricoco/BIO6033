@@ -26,7 +26,7 @@ Des pièges à phéromones sont utilisés pour détecter la présence de la form
 ___
 
 ## Qu’est-ce qu’un piège à phéromones automatisé?
-Un piège à phéromones automatisé inclus une caméra prenant des photos de la base collante à des intervalles pré-déterminés. Ces photos peuvent être envoyé par le réseau cellulaire aux propriétaires du champ surveillé. En théorie, une série de filtres de classification bien entraînés par apprentissage machine pourra alors envoyer une alerte au fermier l’informant du nombre d’insectes ravageurs de chaque classe d'intérêt détectés. L'opérateur pourra aussi renouveler le piège collant à distance si le modèle du piège contient un rouleau de pièges collants. 
+Un piège à phéromones automatisé inclus une caméra prenant des photos de la base collante à des intervalles pré-déterminés. Ces photos peuvent être envoyées par le réseau cellulaire aux propriétaires du champ surveillé. En théorie, une série de filtres de classification bien entraînés par apprentissage machine pourra alors envoyer une alerte au fermier l’informant du nombre d’insectes ravageurs de chaque classe d'intérêt détectés. L'opérateur pourra aussi renouveler le piège collant à distance si le modèle du piège contient un rouleau de pièges collants. 
 
 ![Image2](https://github.com/Cocoricoco/BIO6033/blob/master/SemiosTraps.jpg)
 
