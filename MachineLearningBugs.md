@@ -4,7 +4,9 @@
 - [L’utilisation de l’apprentissage automatique pour détecter des ravageurs volants en champ](#l'utilisation-de-l'apprentissage-automatique-pour-détecter-des-ravageurs-volants-en-champ)
   * [Comment l’apprentissage automatique peut-il être utilisé pour identifier des insectes ravageurs à partir d’images digitales?](#comment-lapprentissage-automatique-peut-il-%C3%AAtre-utilis%C3%A9-pour-identifier-des-insectes-ravageurs-%C3%A0-partir-dimages-digitales)
   * [Qu’est-ce qu’un piège à phéromones régulier?](##quest-ce-quun-pi%C3%A8ge-%C3%A0-ph%C3%A9romones-r%C3%A9gulier)
-  * [Qu’est-ce qu’un piège à phéromones automatisé?](#qu'est-ce-qu'un-piège-à-phéromones-automatisé?)
+  * [Qu’est-ce qu’un piège à phéromones automatisé?](#quest-ce-quun-pi%C3%A8ge-%C3%A0-ph%C3%A9romones-automatis%C3%A9)
+
+  
   * [Quels sont les défis d’un concepteur de piège à phéromones automatisé?](#quels-sont-les-défis-d-un-concepteur-de-piège-à-phéromones-automatisé?)
     + [Les insectes ne sont pas toujours collés dans la même position](#les-insectes-ne-sont-pas-toujours-collés-dans-la-même-position)
     + [Les captures secondaires](#les-captures-secondaires)
